@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "inverted_buck_module")(type "KiCad")(uri "${KIPRJMOD}/inverted_buck_module.kicad_sym")(options "")(descr ""))
+)
