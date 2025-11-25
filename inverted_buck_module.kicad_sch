@@ -1865,6 +1865,16 @@
 		)
 		(uuid "135e4510-f9a8-4227-a790-8c402f09fd7d")
 	)
+	(label "CP"
+		(at 153.67 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "35ee5c18-6205-4a5d-ac1f-0020f7bc4773")
+	)
 	(label "GND"
 		(at 76.2 53.34 180)
 		(effects
@@ -1874,6 +1884,16 @@
 			(justify right bottom)
 		)
 		(uuid "51bf9a09-1b6e-41b1-adb0-d1f39d686005")
+	)
+	(label "SW"
+		(at 153.67 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c73d3f50-cf66-47f2-a7a0-c5d2f7ca478c")
 	)
 	(label "Vin"
 		(at 76.2 48.26 180)
@@ -3236,7 +3256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 64.77 50.8 0)
 			(effects
 				(font
