@@ -323,7 +323,7 @@
 		(at 115.5 59.45 -90)
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Cin"
+		(property "Reference" "Cin1"
 			(at -2.45 -4.5 90)
 			(layer "F.SilkS")
 			(uuid "ac650bf4-4521-47fd-b2e0-24e41fba4073")
@@ -833,7 +833,7 @@
 		(at 107.5 52.5 180)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Ccap"
+		(property "Reference" "Ccap1"
 			(at 4 0 0)
 			(layer "F.SilkS")
 			(uuid "197d6153-6c50-40da-8266-af363d27e597")
@@ -1858,7 +1858,7 @@
 		(at 110 52.5 180)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "Rfbt"
+		(property "Reference" "Rfbt1"
 			(at 2.5 1.5 0)
 			(layer "F.SilkS")
 			(uuid "a91fb1e8-9c1d-4e96-ac3c-6f6c10c0e3fe")
@@ -2257,7 +2257,7 @@
 		(at 113.5 55 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Caux"
+		(property "Reference" "Caux1"
 			(at -1.5 -2 90)
 			(layer "F.SilkS")
 			(uuid "9f542269-0a75-4ee6-9dd6-ef622dc03c00")
@@ -2456,7 +2456,7 @@
 		(at 110.8 63 180)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Ccp"
+		(property "Reference" "Ccp1"
 			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "60432c13-5123-4c6c-87b7-bf41277df047")
@@ -2655,7 +2655,7 @@
 		(at 109.99 51.5)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
-		(property "Reference" "Rfbb"
+		(property "Reference" "Rfbb1"
 			(at 2.51 -0.5 0)
 			(layer "F.SilkS")
 			(uuid "f8220ae2-f5ff-4a11-9453-3e93a7396658")
@@ -3257,7 +3257,7 @@
 		(at 103 55.7 90)
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Cout"
+		(property "Reference" "Cout1"
 			(at 0 -1.68 90)
 			(layer "F.SilkS")
 			(uuid "51f0ce2f-1a34-4ef5-84d4-5ead71982540")
@@ -3456,7 +3456,7 @@
 		(at 113.5 58.5 -90)
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
-		(property "Reference" "Cinx"
+		(property "Reference" "Cinx1"
 			(at 3.5 0 90)
 			(layer "F.SilkS")
 			(uuid "125216b6-09e2-4193-acd0-e4193ce96f77")
