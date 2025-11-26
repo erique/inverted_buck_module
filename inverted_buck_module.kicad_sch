@@ -2046,6 +2046,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C141287"
+			(at 166.37 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "58abba27-176e-4110-8635-72d757bec1fd")
 		)
@@ -2107,6 +2116,15 @@
 		)
 		(property "Description" "Low Noise, 1A Synchronous Inverting Buck Converter in 3x3 WSON Package"
 			(at 142.24 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C485552"
+			(at 142.24 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2228,6 +2246,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C141287"
+			(at 167.6401 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "262d6a43-fe53-4d22-8095-36076e1eab01")
 		)
@@ -2309,6 +2336,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C141287"
+			(at 167.6401 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b863d455-3cf8-4352-b750-a772f12f8b10")
 		)
@@ -2370,6 +2406,15 @@
 		)
 		(property "Description" "4.7uH 1.3A 125mΩ SMD,3.9x3.9mm"
 			(at 184.15 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C4153163"
+			(at 184.15 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2448,6 +2493,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C16780"
+			(at 205.74 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "779a0f43-1e1d-4848-97ec-7e3150d5d34d")
 		)
@@ -2510,6 +2564,15 @@
 		)
 		(property "Description" "CER 47uF 6.3V X5R 0805"
 			(at 207.01 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C16780"
+			(at 210.82 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2589,6 +2652,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C385906"
+			(at 69.85 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e04d62e8-b52a-4660-a128-7660401682b3")
 		)
@@ -2654,6 +2726,15 @@
 		)
 		(property "Description" "16V 22uF X7R ±20% 1206 Ceramic Capacitors RoHS"
 			(at 78.74 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C385906"
+			(at 74.93 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2798,6 +2879,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C16780"
+			(at 200.66 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7681899e-70aa-4558-949e-427dcf2eab6c")
 		)
@@ -2861,6 +2951,15 @@
 		)
 		(property "Description" "16V 2.2uF X7R ±10% 0603 Ceramic Capacitors RoHS"
 			(at 93.98 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C337443"
+			(at 97.79 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3005,6 +3104,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C386049"
+			(at 119.38 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "925d0ff8-7af6-4a99-8c31-5e2f8bfc287e")
 		)
@@ -3039,7 +3147,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24kΩ"
+		(property "Value" "24k"
 			(at 168.91 126.9999 0)
 			(effects
 				(font
@@ -3068,6 +3176,15 @@
 		)
 		(property "Description" "RES 24kΩ ±1% 62.5mW 0402"
 			(at 166.37 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2076708"
+			(at 168.91 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3109,7 +3226,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "130kΩ"
+		(property "Value" "130k"
 			(at 168.91 119.3799 0)
 			(effects
 				(font
@@ -3138,6 +3255,15 @@
 		)
 		(property "Description" "RES 130kΩ ±1% 62.5mW 0402"
 			(at 166.37 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C52929"
+			(at 168.91 116.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3208,6 +3334,15 @@
 		)
 		(property "Description" "10V 1uF X7R ±10% 0603 Ceramic Capacitors RoHS"
 			(at 109.22 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C92806"
+			(at 105.41 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,6 +3484,15 @@
 		)
 		(property "Description" "16V 22uF X7R ±20% 1206 Ceramic Capacitors RoHS"
 			(at 68.58 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C385906"
+			(at 64.77 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
