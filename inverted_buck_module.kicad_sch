@@ -3104,7 +3104,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C386049"
+		(property "LCSC" "C296714"
 			(at 119.38 128.2699 0)
 			(effects
 				(font
@@ -3183,7 +3183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2076708"
+		(property "LCSC" "C25769"
 			(at 168.91 124.4599 0)
 			(effects
 				(font
@@ -3341,7 +3341,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C92806"
+		(property "LCSC" "C95843"
 			(at 105.41 135.8899 0)
 			(effects
 				(font
